@@ -1,0 +1,40 @@
+.flex{
+    display: flex;
+   }
+
+   .items-center{
+       align-items: center;
+       margin: 3px;
+   }
+
+   .border{
+    border: 2px solid rgb(146, 34, 34);
+}
+.container {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.justify_center{
+    justify-content: center;
+}
+
+.bg-black{
+    background-color: black;
+    color: azure;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+.bg-grey{
+    background-color: #1a1515;
+}
+
+.rounded{
+    border-radius: 7px;
+}
+.m-1{
+    margin: 5px;
+}
